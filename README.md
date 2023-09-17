@@ -5,6 +5,7 @@
 
 - 👋 Hi, I’m @mamadinit .
 - 🌱 I’m currently learning  javascript to become full stack developer .
+- 🌐 my website : https://mamadinit.github.io/resume
 
 
 ## Connect with me
