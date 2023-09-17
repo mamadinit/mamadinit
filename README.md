@@ -18,7 +18,7 @@
 
 
 ## Résumé
-[![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)]()
+[![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://mamadinit.github.io/resume/assets/pdf/resume.pdf)
 
 
 ## Status
