@@ -14,7 +14,7 @@
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,flask,django,rails,postgres,mysql,mongodb,linux,git,github," )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,flask,django,postgres,mysql,linux,git,github," )](https://skillicons.dev)
 
 
 ## Résumé
