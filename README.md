@@ -9,7 +9,7 @@
 
 
 ## Connect with me
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/mohammad-sadegh-jamal-58504a231/)
+[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/mohammadsjamal/)
 [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mohammad.s.jamal13@gmail.com)
 [![icons8-twitter-48](https://skillicons.dev/icons?i=twitter," )](https://twitter.com/mamadinit)
 
