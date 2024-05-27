@@ -23,6 +23,6 @@
 
 
 ## Status
-[![EngRobot33's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit)](https://github.com/anuraghazra/github-readme-stats)
+[![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadinit&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadinit&hide=html,css,scss,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
