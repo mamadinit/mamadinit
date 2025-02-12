@@ -31,13 +31,6 @@
 ---
 
 
-## 📄 Résumé
-
-You can view my full résumé here:  
-[![Resume](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://mamadinit.github.io/resume/assets/pdf/resume.pdf)
-
----
-
 ## 📊 GitHub Stats
 
 ![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&hide_title=true&count_private=true&theme=radical)
