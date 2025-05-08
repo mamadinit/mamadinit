@@ -7,39 +7,37 @@
 **Hi! I am Mohammad, a Backend Developer 🚀**
 
 - 👨‍💻 I am currently learning **JavaScript** to become a **Full Stack Developer**.
-- 🌐 Check out my personal website: [My Resume](https://mamadinit.github.io/resume)
+- 🌐 Check My Resume: [My Resume]("./resume.pdf")
 
 ---
 
 ## 🚀 Connect with me:
-[![LinkedIn](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/mohammadsjamal/)
-[![Gmail](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mohammad.s.jamal13@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammadsjamal/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mohammad.s.jamal13@gmail.com)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mamadinit)
 
 ---
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,flask,django,postgres,mysql,linux,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,go,flask,django,postgres,mysql,rabbitmq,redis,linux,git,github,docker)](https://skillicons.dev)
 
 ---
 
 ## 📚 Currently Learning
-- **Docker** – Mastering containerization for scalability.
-- **React.js** – Learning modern frontend libraries.
-
+- **Go (Golang)** – Learning modern backend programming with a fast and efficient language
 ---
 
 
 ## 📊 GitHub Stats
 
-![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&hسcount_private=trueس)
 
 
 
 ## Top Languages 💻
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadinit&hide=html,css,scss,javascript&layout=compact)](https://github.com/mamadinit/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadinit&hide=html,css,scss,javascript)](https://github.com/mamadinit/)
 
 ---
 
