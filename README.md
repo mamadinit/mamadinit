@@ -31,8 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&hسcount_private=trueس)
-
+![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&count_private=true&cache_seconds=1800)
 
 
 ## Top Languages 💻
