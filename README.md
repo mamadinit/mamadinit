@@ -29,14 +29,3 @@
 ---
 
 
-## 📊 GitHub Stats
-
-![mamadinit GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadinit&show_icons=true&count_private=true&cache_seconds=1800)
-
-
-## Top Languages 💻
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadinit&hide=html,css,scss,javascript)](https://github.com/mamadinit/)
-
----
-
